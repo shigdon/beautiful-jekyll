@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hello, Hola, Hej!
+subtitle: Here are some things I can say about me, Shawn Higdon...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I consider myself to be a __Computational Biologist__ with an ongoing love affair with __Biotechnology__.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In June, 2020 I received my __*PhD*__ in Plant Biology after doing some pretty exciting research with microbes isolated from an exotic variety of corn!
 
-What else do you need?
+Overall, my work interests lie with collaborative projects that integrate __Bioinformatics__, __DNA Sequencing__, and __Microbial Ecology__ to drive innovation in __Human Health__ & __Sustainable Agriculture__.
 
-### my history
+I've lived the majority of my life in the *Southwestern United States of America*, namely Arizona, New Mexico and California.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I enjoy working on Microbiome research projects and have an open mind when it comes to exploring the microbiota of different biological systems.
+
+Collaborating with researcher's around the world is important to me and I'm currently working with groups in Bolivia, Thailand and the United States.
